@@ -1966,7 +1966,7 @@ fieldset[disabled] .btn-neutral.active {
 }
 
 .navbar-toggle .icon-bar {
-    background-color: #FFFFFF;
+    background-color: black;
 }
 
 .navbar-toggle .navbar-collapse,
